@@ -1,0 +1,2 @@
+OBJS = main.o \
+characterhandler.o evaluationscreen.o gamescreen.o storyscreen.o titlescreen.o tweethandler.o
