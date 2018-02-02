@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	loadTweetArchive();
 	resetGameState();
 	setScreenAfterWrapperLogoScreen(&TitleScreen);
-	startScreenHandling(getLogoScreenFromWrapper());
+	startScreenHandling(&TitleScreen);
 
 	exitGame();
 	

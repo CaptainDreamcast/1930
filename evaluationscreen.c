@@ -6,6 +6,7 @@
 #include <tari/tweening.h>
 #include <tari/timer.h>
 #include <tari/screeneffect.h>
+#include <tari/math.h>
 
 #include "gamescreen.h"
 #include "tweethandler.h"

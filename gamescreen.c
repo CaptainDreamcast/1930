@@ -5,6 +5,7 @@
 #include <tari/mugentexthandler.h>
 #include <tari/animation.h>
 #include <tari/tweening.h>
+#include <tari/math.h>
 
 #include "characterhandler.h"
 #include "tweethandler.h"
